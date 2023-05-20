@@ -1,0 +1,1 @@
+SECRET_KEY = 'django-insecure-5quu&nv8e3m57_g1bus@u=@^^d3q=4-=6g5#abs)1ng&#0xp=o'
